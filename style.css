@@ -190,8 +190,8 @@ h1, h2, h3 {
 }
 
 .footer {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #9ca3af;
   }
